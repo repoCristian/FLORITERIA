@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="cart" skipped="1" tests="2" time="80.98" timestamp="2024-09-14 03:10:20"><testcase name="este adiciona dos productos al carrito"/><testcase name="adiciona y borra un producto del carrito"><skipped/></testcase></testsuite>

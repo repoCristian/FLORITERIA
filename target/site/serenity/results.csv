@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"cart","Add and delete item to cart","ERROR","2024-09-11T14:58:06.6262951-05:00[America/Bogota]","0.0","0.27"
+"cart","Add 2 products to cart","ERROR","2024-09-11T22:37:58.9010074-05:00[America/Bogota]","0.0","5.37"
+"cart","Add and delete item to cart","ERROR","2024-09-11T22:38:04.7370698-05:00[America/Bogota]","0.0","1.19"
+"cart","Add 2 products to cart","SUCCESS","2024-09-11T22:42:13.606339-05:00[America/Bogota]","0.0","70.58"
+"cart","Add and delete item to cart","SUCCESS","2024-09-11T22:43:24.2505576-05:00[America/Bogota]","0.0","30.56"
+"cart","este adiciona dos productos al carrito","SUCCESS","2024-09-14T15:10:20.6662627-05:00[America/Bogota]","0.0","66.01"
+"cart","adiciona y borra un producto del carrito","SUCCESS","2024-09-14T15:13:58.0010323-05:00[America/Bogota]","0.0","48.45"

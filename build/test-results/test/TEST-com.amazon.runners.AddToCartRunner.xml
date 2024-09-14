@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.amazon.runners.AddToCartRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-09-14T20:13:57" hostname="DESKTOP-Q1QBN0L" time="50.773">
+  <properties/>
+  <testcase name="adiciona y borra un producto del carrito" classname="com.amazon.runners.AddToCartRunner" time="50.773"/>
+  <system-out><![CDATA[
+Escenario: adiciona y borra un producto del carrito             ?[90m# src/test/resources/features/addtocart.feature:18?[0m
+  ?[32mDado ?[0m?[32mque el ?[0m?[32m?[1musuario?[0m?[32m abre un sitio web?[0m                         ?[90m# com.amazon.stepdefinitions.AddToCartStepDefitinions.Dadoqueelusuarioabreunsitioweb(java.lang.String)?[0m
+  ?[32mCuando ?[0m?[32mel adiciona un producto de cumpleanios para eliminarlo?[0m ?[90m# com.amazon.stepdefinitions.AdicionaryEliminarStepDef.cuandoElAdicionaUnProductoDeCumpleaniosParaEliminarlo()?[0m
+  ?[32mEntonces ?[0m?[32mel deberia ver el carrito vacio?[0m                      ?[90m# com.amazon.stepdefinitions.AdicionaryEliminarStepDef.entoncesElDeberiaVerElCarritoVacio()?[0m
+]]></system-out>
+  <system-err><![CDATA[Starting Microsoft Edge WebDriver 128.0.2739.79 (9fa544bdb74fe73e617bb893be219c25d65ef2e3) on port 20635
+To submit feedback, report a bug, or suggest new features, please visit https://github.com/MicrosoftEdge/EdgeWebDriver
+
+Only local connections are allowed.
+Please see https://aka.ms/WebDriverSecurity for suggestions on keeping Microsoft Edge WebDriver safe.
+
+Microsoft Edge WebDriver was started successfully.
+msedgedriver was started successfully on port 20635.
+sept 14, 2024 3:14:01 P. M. org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find CDP implementation matching 128
+sept 14, 2024 3:14:01 P. M. org.openqa.selenium.chromium.ChromiumDriver lambda$new$3
+WARNING: Unable to find version of CDP to use for . You may need to include a dependency on a specific version of the CDP using something similar to `org.seleniumhq.selenium:selenium-devtools-v86:4.7.1` where the version ("v86") matches the version of the chromium-based browser you're using and the version number of the artifact is the same as Selenium's.
+?[32m?[1m┌───────────────────────────────────────────────────────────────────────────────────┐?[0m
+?[32m?[1m│?[0m Share your Cucumber Report with your team at ?[36m?[1m?[4mhttps://reports.cucumber.io?[0m          ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Activate publishing with one of the following:                                    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.enabled?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Environment variable:                            ?[36mCUCUMBER_PUBLISH_ENABLED?[0m=?[36mtrue?[0m    ?[32m?[1m│?[0m
+?[32m?[1m│?[0m JUnit:                                           ?[36m@CucumberOptions?[0m(publish = ?[36mtrue?[0m) ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m More information at ?[36mhttps://cucumber.io/docs/cucumber/environment-variables/?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m Disable this message with one of the following:                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m                                                                                   ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/cucumber.properties:          ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m│?[0m src/test/resources/junit-platform.properties:    ?[36mcucumber.publish.quiet?[0m=?[36mtrue?[0m      ?[32m?[1m│?[0m
+?[32m?[1m└───────────────────────────────────────────────────────────────────────────────────┘?[0m
+]]></system-err>
+</testsuite>
