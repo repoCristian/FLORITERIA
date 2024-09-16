@@ -1,3 +1,4 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
 "cart","Add and delete item to cart","SUCCESS","2024-09-11T22:43:24.2505576-05:00[America/Bogota]","0.0","30.56"
 "cart","adiciona y borra un producto del carrito","SUCCESS","2024-09-14T15:13:58.0010323-05:00[America/Bogota]","0.0","48.45"
+"cart","adiciona el ultimo producto del carrito","SUCCESS","2024-09-15T16:14:14.1674503-05:00[America/Bogota]","0.0","45.27"

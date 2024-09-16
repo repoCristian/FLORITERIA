@@ -15,6 +15,10 @@ Característica: cart
      # | primerProducto | segundoProducto |
       #| MDF 0001       | MDF 00010       |
 
-    Escenario: adiciona y borra un producto del carrito
-    Cuando el adiciona un producto de cumpleanios para eliminarlo
-    Entonces el deberia ver el carrito vacio
+   # Escenario: adiciona y borra un producto del carrito
+    #Cuando el adiciona un producto de cumpleanios para eliminarlo
+    #Entonces el deberia ver el carrito vacio
+
+  Escenario: adiciona el ultimo producto del carrito
+  Cuando el adiciona el ultimo producto de nuevos productos
+  Entonces el deberia ver un producto en el carrito
